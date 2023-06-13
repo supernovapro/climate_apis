@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "ania kubow",
+  "author": "mohammed hassan",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.4",
